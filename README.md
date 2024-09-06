@@ -7,4 +7,4 @@ This was a project I worked on for Northwestern's MSDS program.
 The original data files for this project can be found on the [City of Chicago website](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5 ).
 A cleaned and processed version of this data set can be found in this repository under the file name food_inspection_final.csv.
 
-In addition, I would like to thank [enactdev]([url](https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/il_illinois_zip_codes_geo.min.json)) for uploading the il_illinois_zip_codes_geo.min.json geo json file used in mapping the Chicago zip codes. 
+In addition, I would like to thank [enactdev](https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/il_illinois_zip_codes_geo.min.json) for uploading the il_illinois_zip_codes_geo.min.json geo json file used in mapping the Chicago zip codes. 
